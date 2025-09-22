@@ -4,7 +4,7 @@ COVID-19 Global Harm Visualization   This project visualizes the cumulative COVI
 
 This project visualizes **cumulative COVID-19 deaths per million** across the world with an **animated timeline (2020–2025)**.
 
-👉 **[View Live Animation](https://beginnersluck1810.github.io/Covid_Data/covid_deaths_world_with_top10.html)**
+👉 **[View Live Animation](https://beginnersluck1810.github.io/Covid_Data/index1.html)**
 
 ## 🔹 Features
 - Interactive world map with choropleth coloring (darker red = higher deaths/million)
